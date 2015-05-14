@@ -2,4 +2,4 @@
 
 some button with progress animate
 
-weibo :  [Ê®ÄêÎÚÒÂ¿Í](http://weibo.com/medusay/)
+weibo :  [åå¹´ä¹Œè¡£å®¢](http://weibo.com/medusay/)
